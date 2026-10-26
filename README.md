@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/banner.png" alt="Mobile Game Specs: 28 build specs for polished mobile games, a Claude skill" width="100%"></p>
+
 # mobile-game-specs — a Claude skill for building mobile games
 
 > Reusable specs for building polished mobile games with Claude: UI, feel, ads, retention,
